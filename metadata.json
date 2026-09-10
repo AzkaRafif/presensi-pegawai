@@ -1,0 +1,11 @@
+{
+  "name": "Sistem Presensi Pegawai (Laravel MySQL)",
+  "description": "Sistem Informasi Presensi dan Manajemen Pegawai berbasis skema MySQL dan arsitektur Laravel dengan fitur absensi selfie kamera, validasi radius GPS, manajemen jabatan, rekap kehadiran, dan pengajuan izin.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
